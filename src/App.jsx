@@ -6,6 +6,7 @@ import userData from "./components/Profile/userData.json";
 import friends from "./components/FriendList/friends.json";
 import transactions from "./components/TransactionHistory/transactions.json";
 
+
 import './App.css';
 
 const App = () => {
